@@ -194,7 +194,7 @@ The final solution delivers a complete workforce wellness analytics platform cap
 
 ## Activity & Lifestyle Analytics
 
-![Activity Dashboard](PASTE_IMAGE_NAME_HERE)
+![Activity Dashboard](https://github.com/VasilisTsourapis/Workforce-Wellness-Analytics/blob/main/%CE%A3%CF%84%CE%B9%CE%B3%CE%BC%CE%B9%CF%8C%CF%84%CF%85%CF%80%CE%BF%20%CE%BF%CE%B8%CF%8C%CE%BD%CE%B7%CF%82%202026-05-15%20202224.png)
 # Author
 
 Vasilis Tsourapis
