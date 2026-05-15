@@ -179,4 +179,4 @@ The final solution delivers a complete workforce wellness analytics platform cap
 
 # Author
 
-Basilis Tsourapis
+Vasilis Tsourapis
