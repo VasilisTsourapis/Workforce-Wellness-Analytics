@@ -176,7 +176,25 @@ The final solution delivers a complete workforce wellness analytics platform cap
 * Workforce Analytics
 
 ---
+---
 
+# Dashboard Preview
+
+## Executive Workforce Overview
+
+![Executive Dashboard](Στιγμιότυπο οθόνης 2026-05-15 202147.png)
+
+---
+
+## Sleep & Wellness Analytics
+
+![Sleep Dashboard](PASTE_IMAGE_NAME_HERE)
+
+---
+
+## Activity & Lifestyle Analytics
+
+![Activity Dashboard](PASTE_IMAGE_NAME_HERE)
 # Author
 
 Vasilis Tsourapis
